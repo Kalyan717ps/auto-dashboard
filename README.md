@@ -16,6 +16,9 @@ This Streamlit application allows users to upload CSV or Excel files and automat
 - Export:
   - Download filtered data as CSV
   - Download data summary as PDF
+ 
+## Deployed At
+- https://kalyan-ps-auto-dashboard-4cdznuzzh55nymusprlqc8.streamlit.app/
 
 ## 🛠️ Installation
 
@@ -25,5 +28,4 @@ This Streamlit application allows users to upload CSV or Excel files and automat
 git clone https://github.com/your-username/auto-dashboard-generator.git
 cd auto-dashboard-generator
 
-## Deployed At
-- https://kalyan-ps-auto-dashboard-4cdznuzzh55nymusprlqc8.streamlit.app/
+
